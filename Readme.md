@@ -114,11 +114,7 @@ python quiz_game.py
 
 ---
 
-## 🌟 Screenshots
 
-*Coming soon - Add your screenshots here!*
-
----
 
 ## 🤝 Contributing
 
